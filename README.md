@@ -1,1 +1,1 @@
-# Chat-App
+This is a chatting web app.
